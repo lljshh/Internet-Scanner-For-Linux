@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build",
+  "command": "/bin/x86_64-linux-gnu-g++-11 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/ISFL_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/ISFL.dir/ISFL_autogen/mocs_compilation.cpp.o -c /media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/ISFL_autogen/mocs_compilation.cpp",
+  "file": "/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/ISFL_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build",
+  "command": "/bin/x86_64-linux-gnu-g++-11 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/ISFL_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/ISFL.dir/main.cpp.o -c /media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/main.cpp",
+  "file": "/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/main.cpp"
+},
+{
+  "directory": "/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build",
+  "command": "/bin/x86_64-linux-gnu-g++-11 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux -I/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/ISFL_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/ISFL.dir/mainwindow.cpp.o -c /media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/mainwindow.cpp",
+  "file": "/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/mainwindow.cpp"
+}
+]

@@ -1,0 +1,5 @@
+/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/CMakeFiles/ISFL.dir
+/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/CMakeFiles/edit_cache.dir
+/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/CMakeFiles/rebuild_cache.dir
+/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/CMakeFiles/ISFL_autogen_timestamp_deps.dir
+/media/kiko/14AD295B035FCA17/ISFL/Internet-Scanner-For-Linux/build/CMakeFiles/ISFL_autogen.dir
